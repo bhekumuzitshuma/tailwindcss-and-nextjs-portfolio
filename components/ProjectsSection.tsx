@@ -9,7 +9,7 @@ const projects = [
     name: "Lyncteck Limited",
     description:
       "Lyncteck is a media company that teaches people (Gen-Z and Milennials) how to start, run and scale an online business, it has a built-in CRM which uses SMTP integrated to WordPress",
-    image: "/thankfulthoughts.png",
+    image: "/project-lyncteck.jpg",
     github: "https://lyncteck.com",
     link: "https://lyncteck.com/",
   },
