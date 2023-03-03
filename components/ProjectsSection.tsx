@@ -17,16 +17,16 @@ const projects = [
     name: "Airbnb Clone",
     description: "Fun project recreating Airbnb using Next.js",
     image: "/platoio.png",
-    github: "https://github.com/hqasmei/platoio",
-    link: "https://platoio.com/register",
+    github: "/",
+    link: "/",
   },
   {
     name: "Netflix Clone",
     description:
       "I didn't like the red Netflix Color Scheme so I created a blue one using Next.js",
     image: "/familyphotos.png",
-    github: "https://github.com/hqasmei/katorfamilyphotos",
-    link: "https://katorfamilyphotos.com/",
+    github: "/",
+    link: "/",
   },
 ];
 
