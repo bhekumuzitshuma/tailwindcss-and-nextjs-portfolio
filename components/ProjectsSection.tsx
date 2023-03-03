@@ -23,10 +23,18 @@ const projects = [
   {
     name: "Netflix Clone",
     description:
-      "I could not afford a Netflix account so I built my own using Netx.js, Firebase and Styled-Components",
+      "I could not afford a Netflix account so I built my own using Next.js, Firebase and Styled-Components",
     image: "/netflix.jpg",
     github: "https://github.com/bhekumuzitshuma/netflix-clone",
     link: "https://github.com/bhekumuzitshuma/netflix-clone",
+  },
+  {
+    name: "Offrez Accommodation Platform",
+    description:
+      "A student hunt accommodation platform for students all over the world.",
+    image: "/offrez.jpg",
+    github: "https://offrez.net",
+    link: "https://offrez.net",
   },
 ];
 
