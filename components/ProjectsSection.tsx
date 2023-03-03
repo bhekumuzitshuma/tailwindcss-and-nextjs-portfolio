@@ -15,7 +15,7 @@ const projects = [
   },
   {
     name: "Airbnb Clone",
-    description: "Fun project recreating Airbnb using Next.js",
+    description: "work in progress.....",
     image: "/platoio.png",
     github: "/",
     link: "/",
@@ -23,10 +23,10 @@ const projects = [
   {
     name: "Netflix Clone",
     description:
-      "I didn't like the red Netflix Color Scheme so I created a blue one using Next.js",
-    image: "/familyphotos.png",
-    github: "/",
-    link: "/",
+      "I could not afford a Netflix account so I built my own using Netx.js, Firebase and Styled-Components",
+    image: "/netflix.jpg",
+    github: "https://github.com/bhekumuzitshuma/netflix-clone",
+    link: "https://github.com/bhekumuzitshuma/netflix-clone",
   },
 ];
 
